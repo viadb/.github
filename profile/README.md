@@ -1,6 +1,6 @@
 # ViaDB 
 
-ViaDB es una empres que tiene el objetivo de proveer servicios de consultoría, gestión 
+ViaDB es una empresa que tiene el objetivo de proveer servicios de consultoría, gestión 
 y desarrollo basados en Base de Datos Open Source. Establecidos en el 
 mercado de por mas 10 años, sumando miembros en el equipo y comenzando una nueva 
 etapa en la empresa, estableciendo nuevos asociados estratégicos. 
